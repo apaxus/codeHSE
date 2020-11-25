@@ -6,3 +6,4 @@ if b > a:
 else:
     for i in range(a, b-1 , -1):
         print(i, end=" ")
+        #1 задание
